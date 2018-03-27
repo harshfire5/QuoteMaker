@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Quote Maker</string>
+    <string name="meow">meow</string>
+    <string name="image1">image1</string>
+    <string name="image3">image3</string>
+    <string name="image4">image4</string>
+    <string name="image5">image5</string>
+    <string name="image2">image2</string>
+    <string name="background">Background:</string>
+    <string name="wallpaper">Wallpaper</string>
+    <string name="plain_color">Plain Color</string>
+    <string name="img6">img6</string>
+    <string name="img0">img0</string>
+    <string name="img1">img1</string>
+    <string name="img10">img10</string>
+    <string name="img11">img11</string>
+    <string name="img2">img2</string>
+    <string name="img3">img3</string>
+    <string name="img4">img4</string>
+    <string name="img5">img5</string>
+    <string name="img7">img7</string>
+    <string name="img8">img8</string>
+    <string name="img9">img9</string>
+</resources>
